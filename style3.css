@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: slategray;
+}
+.container{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size:30px ;
+   
+}
+.hd1{
+    text-shadow: 2px 2px white;
+    color:yellow;
+
+}
+.dice{
+    display:inline-block;
+    
+    margin: auto;
+}
+.btn{
+    text-align: center;
+    margin-top: 5%;
+}
+.btn1{
+    background-size: auto;
+    background-color: thistle;
+    border-block:5px solid blue;
+    border-radius:10px ;
+    font-size:30px ;
+}
